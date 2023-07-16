@@ -26,6 +26,7 @@ const PlateformIconList = ({ platforms }: Props) => {
     linux: FaLinux,
     ios: MdPhoneIphone,
     android: FaAndroid,
+    nintendo: SiNintendo,
     web: BsGlobe
 
   }
